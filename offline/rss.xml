@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>GDG DevFest NL</title>
+    <description>GDG DevFest NL</description>
+    <link>http://2013.devfest.nl</link>
+    <pubDate>2014-08-29</pubDate>
+    <item>
+      <title>Index</title>
+      <link>http://2013.devfest.nl/offline</link>
+      <description>&lt;p&gt;This page cannot be viewed offline, sorry...&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

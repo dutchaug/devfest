@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>GDG DevFest NL</title>
+    <description>GDG DevFest NL</description>
+    <link>http://2013.devfest.nl</link>
+    <pubDate>2014-08-29</pubDate>
+    <item>
+      <title>Adolfo Benedetti</title>
+      <link>http://2013.devfest.nl/speakers/adolfo-benedetti</link>
+      <description>&lt;p&gt;Adolfo Benedetti is software engineer at iProfs&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Arnd Brugman</title>
+      <link>http://2013.devfest.nl/speakers/arnd-brugman</link>
+      <description>&lt;p&gt;As Innovator Arnd helps organisations with innovative trajects from initial Idea and Inspiration through Vision, Strategy and Roadmap until assistance with Proof of Concepts and Pilots. He has significant experience with Innovation trajects, service- and product development. Arnd is highly motivated, reliable and pro-active.&lt;/p&gt;
+
+&lt;p&gt;At &lt;a href="https://www.sogeti.nl"&gt;Sogeti NL&lt;/a&gt; Arnd Brugman is (co) responsible for the themes Mobile Apps, Social Collaboration, Cross Channel, UX and the New World of Work.&lt;/p&gt;
+
+&lt;p&gt;Mobile Apps is a consumer trend that is taking over companies rapidly, both on the consumer external side and the internal workforce. Arnd is co-responsible for the proposition development of Sogeti NL and has acted as a coach and guest lecturer for the joint Sogeti NL/Nyenrode Business University &amp;quot;Apps in Business&amp;quot; research project.&lt;/p&gt;
+
+&lt;p&gt;A passion for Arnd is the true user centric approach in every communication, interaction and transaction. Man-Machine Interaction can make a whole new step by using more modern solutions (like Apps) and the use of the right means and channels (Mobile/Web/Social) the user prefers to enhance the User eXperience. By taking in account the place and time of interaction (Contextual Intention) together we create more intention aware solutions for every touchpoint.&lt;/p&gt;
+
+&lt;p&gt;Arnd is a contributor to The App Effect and the Connected Workforce and co-author of the book &lt;a href="http://www.bol.com/nl/p/from-crowd-to-community-teampark-http-creativecommons-org-licenses-by-sa-3-0-nl/1001004009823679/"&gt;&amp;quot;TeamPark, from Crowd to Community&amp;quot;&lt;/a&gt; (ISBN 9789075414233) which describes the platform-independent method to grow your organisation a Social side. This powerful side is present in every organisation but isn&amp;#39;t often made explicit and lacks management attention.&lt;/p&gt;
+
+&lt;p&gt;In his spare time he relaxes by diving in the Dutch and foreign waters. Arnd is a certified PADI dive-master which enables him to assist during various diving courses.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Chris Stewart</title>
+      <link>http://2013.devfest.nl/speakers/chris-stewart</link>
+      <description>&lt;p&gt;Software Engineer and Instructor at &lt;a href="http://bignerdranch.com"&gt;Big Nerd Ranch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Chris grabbed all of our attention by becoming our inaugural Clash of the Coders champion, an honor he&#x2019;d been preparing for ever since checking out the world&#x2019;s largest HTML book from his high school library. Before his reign at the Ranch, he wrote code in the corporate world after completing his Masters at Georgia Tech. In addition to brandishing some mean engineering skills, Chris is our resident Frisbee ace. He fuels all that energy with gummy bears and nearly anything smothered in Ranch dressing or barbecue sauce. He dreams of washing all of that &#x201C;goodness&#x201D; down by someday partaking in a gin and tonic with &#x201C;Top Gear&#x201D; co-host James May.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Ernest Micklei</title>
+      <link>http://2013.devfest.nl/speakers/ernest-micklei</link>
+      <description>&lt;p&gt;Ernest Micklei holds the position of Senior Software Architect at &lt;a href="http://bol.com"&gt;bol.com&lt;/a&gt; and has 20+ years of experience in Software Design, Development and Architecture. At &lt;a href="http://bol.com"&gt;bol.com&lt;/a&gt;, the largest e-commerce company of the Netherlands, he is responsible for the design and architecture of all internal and external Web Services. In addition, he is working with our operations staff to improve and investigate performance issues related to our Java-based applications and Services.
+He is currently active in High Performance Websites, REST services and NoSQL and is exited about &lt;a href="http://golang.org"&gt;Google Go&lt;/a&gt;. His contributions to the open-source community can be found at &lt;a href="http://github.com/emicklei"&gt;github.com/emicklei&lt;/a&gt; and &lt;a href="http://emicklei.googlecode.com"&gt;emicklei.googlecode.com&lt;/a&gt;. Ernest blogs at &lt;a href="ernestmicklei.com"&gt;ernestmicklei.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gerald De Jong</title>
+      <link>http://2013.devfest.nl/speakers/gerald-de-jong</link>
+      <description>&lt;p&gt;Gerald has a mathematics background and has been writing code since he was a teenager.  After some years of building software in C and C++ he switched to Java when it appeared in 1996, and became a trainer for Sun Microsystems.  Since then, his one-man company Beautiful Code BV has been helping clients with design, training, and coding.  In the last few years his focus has been in the domain of Cultural Heritage (Museums, Archives, Libraries) with a collaboration called Delving BV, in Java, Scala, and now also Javascript/AngularJS.  He loves the richness, diversity, and potential of cultural heritage data.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

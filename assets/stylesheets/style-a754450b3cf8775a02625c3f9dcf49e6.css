@@ -1,0 +1,72 @@
+.speakers li {
+    list-style: none;
+}
+.detailed {
+	margin-left: 0px;
+}
+
+.detailed a:link, .detailed a:visited, .detailed a:hover, .detailed a:active {
+	color: #00b7e2;
+}
+
+.detailed .laboratory a:link, .detailed .laboratory a:visited, .detailed .laboratory a:hover, .detailed .laboratory a:active {
+	color: #333;
+}
+
+.detailed li {
+	list-style-type: none;
+	min-height: 60px;
+    margin-top: 3px;
+    margin-bottom: 6px;
+    padding-bottom: 14px;
+	box-shadow: 3px 3px 1px #888;
+}
+
+.lab li {
+	min-height: 164px;
+}
+
+.detailed .time {
+	position: relative;
+	float: left;
+	padding-left: 5px;
+	color: #333;
+}
+
+.detailed .author {
+	position: relative;
+	float: right;
+	padding-right: 5px;
+	color: black;
+}
+
+.detailed .title {
+	font-weight: bold;
+	margin-top: 8px;
+	padding-left: 6%;
+	max-width: 92%;
+}
+
+.detailed .lightroom {
+	background: white;
+}
+
+.detailed .lightroom .time, .detailed .lightroom .author {
+	color: #191919;
+}
+
+.detailed .darkroom .author {
+	color: #f7f7f7;
+}
+
+.detailed .darkroom {
+	background: #191919;
+}
+
+.detailed .darkroom .time {
+	color: #f7f7f7;
+}
+
+.detailed .laboratory {
+	background: #ff6600;
+}

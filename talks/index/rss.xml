@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>GDG DevFest NL</title>
+    <description>GDG DevFest NL</description>
+    <link>http://2013.devfest.nl</link>
+    <pubDate>2014-08-29</pubDate>
+    <item>
+      <title>Developing modern web applications with AngularJS</title>
+      <link>http://2013.devfest.nl/angularjs/developing-modern-web-applications-with-angularjs</link>
+      <description>&lt;p&gt;Een moderne applicatie bouwen en dat ook nog eens op een gestructureerde manier. Hoe doe je dat? En hoe moeilijk is dat? Daarvoor zijn zogenoemde Singe Page Application JavaScript frameworks ontwikkeld die je daarbij helpen. &lt;a href="http://angularjs.org"&gt;AngularJS&lt;/a&gt; is een van die frameworks. Het is een modern framework waarmee onderhoudbare JavaScript applicaties gebouwd kunnen worden. Het framework schenkt veel aandacht aan het testbaar maken van de applicatie. Leer in deze sessie de mogelijkheden ontdekken van &lt;a href="http://angularjs.org"&gt;AngularJS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Layar on Google Glass</title>
+      <link>http://2013.devfest.nl/android/layar-on-google-glass</link>
+      <description>&lt;p&gt;&lt;a href="http://www.google.com/glass/start/how-it-feels/"&gt;Google Glass&lt;/a&gt; is an interesting new platform that brings many opportunities and challenges for developers. As one of the lucky few Glass Explorers, I have been busy developing several prototypes of the &lt;a href="https://www.layar.com/augmented-reality/"&gt;Layar Augmented Reality&lt;/a&gt; technology on Glass.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will discuss the basics of Google Glass and the developer APIs currently available (Mirror API and Android apps on Glass). I will present the lessons learned from our experimentation and will give some tips on Google Glass UI design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/assets/media/glass-at-station-delft.jpg"/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>App Strategy Workshop</title>
+      <link>http://2013.devfest.nl/app-strategy/app-strategy-workshop</link>
+      <description>&lt;p&gt;In a short time this workshop gives you a concrete hands-on with building a fundament under a mobile strategy. With a good mobile app you can lift the productivity of personnel, efficiency of an organisation and satisfaction of customers and employees to a higher level. How do you make sure mobile choices are aligned to your company&amp;#39;s strategy? And how do you keep the satisfaction of customers in clear focus with all the decisions that you make?&lt;/p&gt;
+
+&lt;p&gt;Together with &lt;a href="https://www.sogeti.nl/mobile"&gt;Sogeti&lt;/a&gt; you find answers to all these questions in the App Strategy Workshop. We will guide you in making the right choices and treasuring your best ideas.&lt;/p&gt;
+
+&lt;p&gt;Arnd is co-hosting this workshop with &lt;a href="/speakers/magdelijn-emaus/"&gt;Magdelijn Emaus&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Android - Key Fundamentals for a Head Start</title>
+      <link>http://2013.devfest.nl/android/android-key-fundamentals-for-a-head-start</link>
+      <description>&lt;p&gt;I will give an architectural introduction to &lt;a href="http://developer.android.com"&gt;Android&lt;/a&gt;. The fundamentals are controlling &lt;a href="http://developer.android.com/guide/components/activities.html"&gt;Activities&lt;/a&gt; and &lt;a href="http://developer.android.com/guide/components/services.html"&gt;Services&lt;/a&gt; via &lt;a href="http://developer.android.com/guide/components/intents-filters.html"&gt;Intents&lt;/a&gt;. Data mutations are exclusively done via the &lt;a href="http://developer.android.com/guide/topics/providers/content-providers.html"&gt;ContentProvider&lt;/a&gt; which broadcasts its changes via URI updates. Data binding is done via Data-Adapters which are set after an URI update via the &lt;a href="http://developer.android.com/guide/components/loaders.html"&gt;Loader&lt;/a&gt; Architecture in Android: this is something few Android developers actually use but is very important. Internet calls are done in separate Services. All these elements are defined in an &lt;a href="http://developer.android.com/guide/topics/manifest/manifest-intro.html"&gt;AndroidManifest.xml&lt;/a&gt; and displayed via &lt;a href="http://developer.android.com/guide/topics/ui/declaring-layout.html"&gt;layouts&lt;/a&gt; defined in XML files.&lt;/p&gt;
+
+&lt;p&gt;I will explain these concepts, accompanied by a a demo app and diagrams which contain overviews for this architecture. This will give programmers which are new to Android a solid architectural understanding.&lt;/p&gt;
+
+&lt;p&gt;When there is some time left I will give some practical tips that can save you hours debugging with your first steps in Android.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>On the Go</title>
+      <link>http://2013.devfest.nl/go/on-the-go</link>
+      <description>&lt;p&gt;This talk will be about the &lt;a href="http://golang.org"&gt;Google Go language&lt;/a&gt; and its ecosystem. It will not be a short course in Go but rather an overview of its interesting parts with respect to other languages such as Java. As &lt;a href="http://golang.org/doc/articles/concurrency_patterns.html"&gt;concurrency&lt;/a&gt; is one of Go&amp;#39;s interesting features, I intend to demo a simple program. In addition, I will talk about Go&amp;#39;s ecosystem; the online and offline tool set, the available libraries and its development community.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
